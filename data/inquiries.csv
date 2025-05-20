@@ -1,0 +1,5 @@
+Inquiry_ID,Inquiry_Date,Response_Date,Status,Customer_Name
+INQ001,2025-05-01 10:00:00,2025-05-01 12:30:00,Closed,John Doe
+INQ002,2025-05-02 09:00:00,,Open,Jane Smith
+INQ003,2025-05-03 14:00:00,2025-05-03 15:45:00,Closed,Alice Brown
+INQ004,2025-05-04 11:00:00,2025-05-04 12:00:00,Closed,Bob Wilson
